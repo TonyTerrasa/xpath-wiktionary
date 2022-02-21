@@ -1,4 +1,4 @@
-# Counting Pages: Answers 
+# Pages and Basics: Answers 
 
 Below are the answers for activity 1
 
