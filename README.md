@@ -7,7 +7,7 @@ Author: Tony Terrasa
 
 Today, you will be exploring a filtered dataset from the [English Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) using your XPath knowledge. 
 
-They are self-described as:
+The English Wiktionary is self-described as:
 
 _“a collaborative project to produce a free-content multilingual dictionary. It aims to describe all words of all languages using definitions and descriptions in English.” (English wiktionary homepage)_
 
