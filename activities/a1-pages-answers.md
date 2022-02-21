@@ -32,7 +32,7 @@ count(//page[not(contains(title, " ")) and not(contains(title, ":"))])
 The number of pages with no spaces or colons in the title is `821`
 
 
-## 3) What is the length of the longest entry title? What is that entry?
+## 3) What is the length of the longest title? What is that title?
 
 To find the lengths of all of the title elements, we can us the `string-length()` function. Try running the following:
 
