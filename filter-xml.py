@@ -1,10 +1,18 @@
+"""
+Author: Tony Terrasa
+
+A script which filters away the body text of the articles from 
+an English Wiktionary data dump in XML format. 
+"""
 import sys 
 
+# input file name, first argument
 filename = sys.argv[1]
-num_entries = int(sys.argv[2])
+# the number of page entries you want to keep
+num_entries = int(sys.argv[2]) 
 
 
-f = open(filename, "r")
+f = open(filename, "r") # original file
 output_file = open("output.xml", "w")
 
 entry = 0
