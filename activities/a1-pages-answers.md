@@ -72,3 +72,34 @@ The result of this XPath is:
 ```
 
 There are actually 2 titles which are `53` characters long. 
+
+## 4) When was of the page with the highest id number last edited?
+
+
+The highest page id can be found: 
+```
+max(//page/id)
+```
+
+**It is important that you include both `page`and `id`.** If you search for `//id` you will be including the `id`s of the revisions as well. 
+
+
+
+The page with the highest id can be found: 
+```
+//page[id=max(//page/id)]
+```
+
+Then, we look for the path 
+```
+//page[id=max(//page/id)]/revision/timestamp
+```
+
+This will give us: 
+```
+<timestamp xmlns="http://www.mediawiki.org/xml/export-0.10/">2020-12-06T16:50:49Z</timestamp>
+```
+
+This means, it was last edited on December 6, 2020 at 16:50
+
+
