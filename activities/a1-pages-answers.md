@@ -16,7 +16,7 @@ You get `900`
 
 Notice that not every page is a single word defintion. For example the first page is titled "Wiktionary:GNU Free Documentation License" which contains five words.
 
-Notice that pages that define words have no spaces or colons (":") in the title. We can use the `not()` and `contains()` functions to filter for only words. 
+Notice that pages that define only single words have no spaces or colons (":") in the title. We can use the `not()` and `contains()` functions to filter for only single words. 
 
 You can filter out spaces with:
 ```
