@@ -11,10 +11,10 @@ count(//page)
 
 You get `900`
 
-## 2) How would you find the number of words in this file? How many are there?
+## 2) How would you find the number of single words in this file? How many are there?
 
 
-Notice that not ever page is a word defintion. For example the first page is titled "Wiktionary:GNU Free Documentation License."
+Notice that not every page is a single word defintion. For example the first page is titled "Wiktionary:GNU Free Documentation License."
 
 Notice that pages that define words have no spaces or colons (":") in the title. We can use the `not()` and `contains()` functions to filter for only words. 
 
