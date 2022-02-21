@@ -16,7 +16,7 @@ The first is: "Wiktionary:Welcome, newcomers"
 
 The last is: "defining vocabulary"
 
-## 2) What are the title of the 746th page? 
+## 2) What is the title of the 746th page? 
 Use
 ```
 (//title)[746]
