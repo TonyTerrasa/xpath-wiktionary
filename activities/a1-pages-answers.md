@@ -100,6 +100,6 @@ This will give us:
 <timestamp xmlns="http://www.mediawiki.org/xml/export-0.10/">2020-12-06T16:50:49Z</timestamp>
 ```
 
-This means, it was last edited on December 6, 2020 at 16:50
+This means it was last edited on December 6, 2020 at 16:50
 
 
