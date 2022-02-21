@@ -1,4 +1,4 @@
-# How Many?: Answers 
+# Counting Pages: Answers 
 
 Below are the answers for activity 1
 
