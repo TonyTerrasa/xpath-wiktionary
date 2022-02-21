@@ -21,10 +21,7 @@ You can find XSD for the output data [here](https://www.mediawiki.org/xml/export
 ## Activity
 
 
-In the `activities` folder you will find prompts as well as possible XPath expressions to help you find the answers.
-
-**I STRONGLY RECOMMEND YOU ATTEMPT EACH PROBLEM ON YOUR OWN BEFORE LOOKING AT THE ANSWER.** This may involve googling how to do something. Ask for help as you need.
-
+In the `activities` folder you will find prompts as well as possible XPath expressions to help you find the answers. **I STRONGLY RECOMMEND YOU ATTEMPT EACH PROBLEM ON YOUR OWN BEFORE LOOKING AT THE ANSWER.** This may involve googling how to do something. Ask for help as you need.
 
 You will need to download the file `enwiki-sample-bodyless.xml` from this repository
 
