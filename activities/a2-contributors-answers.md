@@ -21,7 +21,7 @@ The answer are `900`. Notice that this is the same as the number of pages.
 
 ## 2) Sometimes, one contributor edits multiple pages. How many unique or distinct contributors are there?
 
-We can use the `distinct-values` function to find unique entries in the `contributor` elements. 
+We can use the `distinct-values()` function to find unique entries in the `contributor` elements. 
 
 ```
 count(distinct-values(//contributor))
