@@ -1,26 +1,3 @@
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.272 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Mon Feb 21 2022 03:27:51 GMT-0800 (PST)
-* Source doc: Wikitionary-v1
------>
-
-
-
 # English Wiktionary
 
 Author: Tony Terrasa
@@ -32,8 +9,7 @@ Today, you will be exploring a filtered dataset from the [English Wiktionary](ht
 
 They are self-described as:
 
-
-    _“a collaborative project to produce a free-content multilingual dictionary. It aims to describe all words of all languages using definitions and descriptions in English.” (English wiktionary homepage)_
+_“a collaborative project to produce a free-content multilingual dictionary. It aims to describe all words of all languages using definitions and descriptions in English.” (English wiktionary homepage)_
 
 In this repository, you will find an XML database of some of the entries. For the sake of size, the actually text of each entry has been omitted, but the metadata remains. You can find the xml data dump from which this exercise was pulled [here](https://dumps.wikimedia.your.org/enwiktionary/20220220/). 
 
@@ -47,7 +23,7 @@ You will need the following:
 
 
 * Download the file 'enwiki-sample-bodyless-900.xml' from this repository
-* You may find this [page](https://www.freeformatter.com/xpath-tester.html#ad-output) useful for testing your XPath expressions. Note that you can run your expressions on an input file. **You have to manually re-upload the input file each time you run your XPath expression. **
+* You may find this [page](https://www.freeformatter.com/xpath-tester.html#ad-output) useful for testing your XPath expressions. Note that you can run your expressions on an input file. **You have to manually re-upload the input file each time you run your XPath expression.**
 
 
 ## Resources
