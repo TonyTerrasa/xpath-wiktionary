@@ -92,5 +92,5 @@ The result of this XPath is:
 <username xmlns="http://www.mediawiki.org/xml/export-0.10/">沈澄心</username>
 ```
 
-There are actually 3 usernames which are `3` characters long. You may not be able to see some of the characters depending on the computers you have installed on you computer.
+There are actually 3 usernames which are `3` characters long. You may not be able to see some of the characters depending on the fonts you have installed on you computer.
 
