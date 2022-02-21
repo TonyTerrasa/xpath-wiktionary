@@ -11,7 +11,7 @@ count(//page)
 
 You get `900`
 
-## 2) How would you find the number of single words in this file? How many are there?
+## 2) How would you find the number of single words with pages in this file? How many are there?
 
 
 Notice that not every page is a single word defintion. For example the first page is titled "Wiktionary:GNU Free Documentation License" which contains five words.
