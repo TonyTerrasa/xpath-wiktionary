@@ -32,14 +32,14 @@ This will give us `241` unique contributors.
 
 ## 3) How many contributors have usernames that start with "W"? Are there any that start with "w"?
 
-We can use the `starts-with` function to check what letter an element starts with. Don't forget to look for **distinct** values. 
+We can use the `starts-with()` function to check what letter an element starts with. Don't forget to look for **distinct** values. 
 ```
 count(distinct-values(//contributor[starts-with(username, "W")]))
 ```
 
 This gives us `7`
 
-The `starts-with` function is case-sensitive which means that it sees "W" and "w" as different letters. If we do 
+The `starts-with()` function is case-sensitive which means that it sees "W" and "w" as different letters. If we do 
 ```
 count(distinct-values(//contributor[starts-with(username, "w")]))
 ``` 
@@ -72,7 +72,7 @@ You get the length of each username element like:
 ...
 ```
 
-To find the smallest, we use the `min` (minimum) function. 
+To find the smallest, we use the `min()` (minimum) function. 
 
 ```
 min(//username/string-length())
