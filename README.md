@@ -23,7 +23,7 @@ You can find XSD for the output data [here](https://www.mediawiki.org/xml/export
 
 In the `activities` folder you will find prompts as well as possible XPath expressions to help you find the answers.
 
-You will need to download the file `enwiki-sample-bodyless-900.xml` from this repository
+You will need to download the file `enwiki-sample-bodyless.xml` from this repository
 
 You may find this [page](https://www.freeformatter.com/xpath-tester.html#ad-output) useful for testing your XPath expressions. Note that you can run your expressions on an input file. **You have to manually re-upload the input file each time you run your XPath expression.**
 
