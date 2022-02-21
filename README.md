@@ -11,9 +11,9 @@ They are self-described as:
 
 _“a collaborative project to produce a free-content multilingual dictionary. It aims to describe all words of all languages using definitions and descriptions in English.” (English wiktionary homepage)_
 
-In this repository, you will find an XML database of some of the entries. For the sake of size, the actually text of each entry has been omitted, but the metadata remains. You can find the xml data dump from which this exercise was pulled [here](https://dumps.wikimedia.your.org/enwiktionary/20220220/). 
+In this repository, you will find an XML database of some of the entries. To keep the XML file small, the actual text of each entry has been omitted, but the metadata remains. You can find the XML data dump from which this exercise was pulled [here](https://dumps.wikimedia.your.org/enwiktionary/20220220/). 
 
-For size purposes the original file is not included in this repository. However, you will find the Python script used to filter the entries. 
+For size purposes the original file is not included in this repository. However, you will find the Python script used to filter the entries and you can visit the link above if you'd like to download the original. 
 
 
 ## Activity
