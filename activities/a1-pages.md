@@ -6,7 +6,7 @@ You may find the `count()` function helpful for these problems.
 
 1) How many pages are there in this file?
 
-2) How would you find the number of single words in this file? How many are there?
+2) How would you find the number of single words with pages in this file? How many are there? (hint: look at the titles of the pages)
 
 3) What is the length of the longest entry title? What is that entry?
 
