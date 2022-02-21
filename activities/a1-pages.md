@@ -1,4 +1,4 @@
-# Pages
+# Pages and Basics
 
 1) How many pages are there in this file?
 
