@@ -15,6 +15,8 @@ In this repository, you will find an XML database of some of the entries. To kee
 
 For size purposes the original file is not included in this repository. However, you will find the Python script used to filter the entries and you can visit the link above if you'd like to download the original. 
 
+You can find XSD for the output data [here](https://www.mediawiki.org/xml/export-0.10.xsd).
+
 
 ## Activity
 
