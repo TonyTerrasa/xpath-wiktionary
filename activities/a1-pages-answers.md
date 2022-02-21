@@ -87,12 +87,12 @@ max(//page/id)
 
 The page with the highest id can be found: 
 ```
-//page[id=max(//page/id)]
+//page[id = max(//page/id)]
 ```
 
 Then, we look for the path 
 ```
-//page[id=max(//page/id)]/revision/timestamp
+//page[id = max(//page/id)]/revision/timestamp
 ```
 
 This will give us: 
