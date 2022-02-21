@@ -1,4 +1,4 @@
-# English Wiktionary
+# English Wiktionary Activity for Learning XPath
 
 Author: Tony Terrasa
 
