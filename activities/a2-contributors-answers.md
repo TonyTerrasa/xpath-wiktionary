@@ -16,7 +16,7 @@ We can count them with:
 count(//contributor)
 ```
 
-The answer is `900`. Notice that this is the same as the number of pages. 
+The answer are `900`. Notice that this is the same as the number of pages. 
 
 
 ## 2) Sometimes, one contributor edits multiple pages. How many unique or distinct contributors are there?
