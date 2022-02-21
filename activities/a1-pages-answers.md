@@ -16,9 +16,9 @@ You get `900`
 
 Notice that not ever page is a word defintion. For example the first page is titled "Wiktionary:GNU Free Documentation License."
 
-Notice that pages that define words have no spaces or colons (":") in the title. We can use the `not()` and `contains()` function to filter for only words. 
+Notice that pages that define words have no spaces or colons (":") in the title. We can use the `not()` and `contains()` functions to filter for only words. 
 
-You can filter our spaces with:
+You can filter out spaces with:
 ```
 count(//page[not(contains(title, " "))])
 ```
