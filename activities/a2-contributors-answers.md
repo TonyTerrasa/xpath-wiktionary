@@ -42,7 +42,7 @@ This gives us `7`
 The `starts-with` function is case-sensitive which means that it sees "W" and "w" as different letters. If we do 
 ```
 count(distinct-values(//contributor[starts-with(username, "w")]))
-```
+``` "w"
 
 We get `0` contributors whose usernames start "w"
 

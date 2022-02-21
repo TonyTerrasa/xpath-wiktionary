@@ -29,7 +29,7 @@ You may first find it helpful to explore the data set by eye. Try to open it and
 
 1) Which element contains the word that this page describes?
 
-2) What does the word "revision"?
+2) What does the word "revision" mean?
 
 3) Which element do you think contains the date and time this page was last updated?
 
