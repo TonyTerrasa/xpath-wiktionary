@@ -17,6 +17,12 @@ For size purposes the original file is not included in this repository. However,
 
 You can find XSD for the output data [here](https://www.mediawiki.org/xml/export-0.10.xsd).
 
+## Prerequisites
+
+Before starting this activity, you should have a working knowledge of XPath syntax for selecting nodes. 
+
+You will also find it easier if know what a function in programming is. 
+
 
 ## Activity
 
